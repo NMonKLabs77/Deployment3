@@ -95,7 +95,13 @@ second application called **File**.</p>
 
 <h2>Systems Diagram</h2>
 
+![Deploy3-nene drawio](https://github.com/NMonKLabs77/deployment3/assets/139259756/752c6c7f-e5b8-4ae2-896a-592e070f03c2)
 
-<img width="572" alt="deplo3" src="https://github.com/NMonKLabs77/deployment3/assets/139259756/b0f9a6a4-1de7-4429-a4eb-94c8915a7ff9">
+<h2>Optimisation</h2>
+<p>I would fully automate this process instead of painstakingly manually doing all the steps of Devops manually. 
+I would also use a dashboard and platform to keep all my process sort of like a admin project management platform so that I would have all 
+my projects in one place.</p>
+
+
 
 
