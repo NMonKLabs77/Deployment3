@@ -2,7 +2,7 @@
 <h2>How to set up a Jenkins server and deploy an application to AWS Elastic Beanstalk</h2>
 
 
-[link to deployment files](/application.py)
+[link to deployment files](/main)
 
 <h2>Purpose</h2>
 <p>The purpose of this deployment is to set up Jenkins Server and Deploy an Application on AWS Elastic Beanstalk. 
