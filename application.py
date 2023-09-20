@@ -43,7 +43,7 @@ def your_url():
 def redirect_to_url(code):
     if os.path.exists('urls.json'):
         with open('urls.json') as urls_file:
-            urls = json.load(urls_file)
+            urls = json.loads(urls_file)
             if code in urls.keys():
                 if 'url' in urls[code].keys():
                     return redirect(urls[code]['url'])
